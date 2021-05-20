@@ -88,10 +88,8 @@
 
 25、二叉树的中序遍历，非递归
 
-* * *
-# **更多：[iOS面试题合集](https://www.jianshu.com/p/e709fde38de3)**
+***
+### 更多精选大厂 · iOS面试题答案PDF文集
 
->>**另外附上一份各个好友收集的各大厂面试题+答案 ! 需要的可加 iOS技术探讨群：624212887，群文件直接获取**
->* **[点击加入：与 2000+iOS开发者一起探讨交流](https://jq.qq.com/?_wv=1027&k=58aouvq)**
-
-![各大厂面试题](https://upload-images.jianshu.io/upload_images/13277235-4aa00134c7b2dbdb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/17495317-e01b6f4e054727b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 获取加小编的iOS技术交流圈：**[937 194 184](https://jq.qq.com/?_wv=1027&k=5PARXCI)**，直接获取
