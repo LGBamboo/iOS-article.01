@@ -61,5 +61,8 @@
 5、MVVM
 就是考察一下我iOS方面的能力到底是否有水分吧。问得很细，确实需要基础足够扎实才行。
 
-* * *
-# **更多：[iOS面试题合集](https://www.jianshu.com/p/e709fde38de3)**
+***
+### 更多精选大厂 · iOS面试题答案PDF文集
+
+![](https://upload-images.jianshu.io/upload_images/17495317-e01b6f4e054727b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 获取加小编的iOS技术交流圈：**[937 194 184](https://jq.qq.com/?_wv=1027&k=5PARXCI)**，直接获取
